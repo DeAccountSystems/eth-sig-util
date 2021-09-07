@@ -1,5 +1,5 @@
 {
-  "name": "@das/eth-sig-util",
+  "name": "das-eth-sig-util",
   "version": "3.0.1",
   "description": "A few useful functions for signing ethereum data",
   "keywords": [
