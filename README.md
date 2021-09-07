@@ -1,18 +1,18 @@
-# `@metamask/eth-sig-util`
+# `@das/eth-sig-util`
 
 A small collection of Ethereum signing functions.
 
 You can find usage examples [here](https://github.com/metamask/test-dapp)
 
-[Available on NPM](https://www.npmjs.com/package/@metamask/eth-sig-util)
+[Available on NPM](https://www.npmjs.com/package/@das/eth-sig-util)
 
 ## Installation
 
-`yarn add @metamask/eth-sig-util`
+`yarn add @das/eth-sig-util`
 
 or
 
-`npm install @metamask/eth-sig-util`
+`npm install @das/eth-sig-util`
 
 ## Methods
 
